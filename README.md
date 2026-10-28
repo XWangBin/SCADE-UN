@@ -17,3 +17,4 @@ We thank the authors of the following studies for making their research and repo
 - [An Unsupervised Deep Unfolded Network for Mosaic-based Hyperspectral Fusion Imaging](https://github.com/Nan-Wong98/An-Unsupervised-Deep-Unfolded-Network-for-Mosaic-based-Hyperspectral-Fusion-Imaging)
 - [Unsupervised Variational Posterior Learning for Mosaic-Based Hyperspectral Fusion Imaging](https://github.com/Nan-Wong98/Unsupervised-Variational-Posterior-Learning-for-Mosaic-Based-Hyperspectral-Fusion-Imaging)
 - [Imaging-Informed Progressive Fusion for Mosaic-based Hyperspectral Image Reconstruction](https://github.com/TurnXu/imaging-informed-progressive-fusion-hsi-reconstruction/tree/main)
+- [Equivariant High-Resolution Hyperspectral Imaging via Mosaiced and PAN Image Fusion](https://github.com/Nan-Wong98/Equivariant-High-Resolution-Hyperspectral-Imaging-via-Mosaiced-and-PAN-Image-Fusion)
